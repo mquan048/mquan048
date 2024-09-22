@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @mquan048
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align='center'>Hi👋, I'm Do Minh Quan </h1>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full-stack+developer;Software+Engineer" alt="Typing SVG" /></a>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mquan048&label=Profile%20views&color=0e75b6&style=flat" alt="QuanDo" />
+</p>
+
+- 👀 I’m interested in Data Science
+- 🧠 I'm learning everything I can learn
+- ✉️ Reach me at mquando04@gmail.com
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mquan048&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook,m4" alt="QuanDo" /></p>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mquan048&show_icons=true&locale=en" alt="QuanDo" /></p>
 
 <!---
 mquan048/mquan048 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
