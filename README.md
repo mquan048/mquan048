@@ -1,7 +1,7 @@
 <h1 align='center'>Hi👋, I'm Do Minh Quan </h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full-stack+developer;Software+Engineer" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full-stack+developer;Software+Engineer" alt="Typing SVG" />
 </p>
 
 <p align="center">
