@@ -8,7 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=mquan048&label=Profile%20views&color=0e75b6&style=flat" alt="QuanDo" />
 </p>
 
-- 👀 I’m interested in Data Science
 - 🧠 I'm learning everything I can learn
 - ✉️ Reach me at mquando04@gmail.com
 
