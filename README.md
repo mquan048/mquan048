@@ -11,9 +11,9 @@
 - 🧠 I'm learning everything I can learn
 - ✉️ Reach me at mquando04@gmail.com
 
-<p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mquan048&theme=github" alt="QuanDo" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mquan048&show_icons=true&locale=en&layout=compact" alt="QuanDo" /></p>
 
-<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mquan048&theme=github" alt="QuanDo" /></p>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=mquan048&show_icons=true&locale=en" alt="QuanDo" /></p>
 
 <!---
 mquan048/mquan048 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
